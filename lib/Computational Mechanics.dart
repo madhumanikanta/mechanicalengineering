@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> Computational= [
 
   QuestionModel(
       question: "1. What is Computational Mechanics?",

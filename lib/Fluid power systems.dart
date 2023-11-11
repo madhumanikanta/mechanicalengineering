@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> fluidpowersystem = [
 
 
   QuestionModel(question: "1. In fluid power systems, which fluid is commonly used due to its incompressible nature and ability to transmit force effectively?",

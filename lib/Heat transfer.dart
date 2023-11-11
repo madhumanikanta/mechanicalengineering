@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> heattransfer = [
 
   QuestionModel(question: "1. Heat transfer that occurs due to the movement of a fluid, such as air or water, is called:",
       options: [

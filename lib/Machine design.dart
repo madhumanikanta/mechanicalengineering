@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> machinedesign = [
   QuestionModel(question: "1. What is the process of creating a plan or design for a machine, component, or system called?",
       options: [
         "Manufacturing",

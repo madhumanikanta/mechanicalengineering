@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> solidmechanics = [
 
   QuestionModel(
       question: "1. What is the primary focus of Solid Mechanics?",

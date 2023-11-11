@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> Kinematicsanddynamics = [
 
   QuestionModel(question: "1. What is the branch of mechanics that deals with the motion of objects without considering the forces that cause the motion?",
       options: [

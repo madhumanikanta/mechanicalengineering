@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> Automotive = [
   QuestionModel(
       question: "1. Which part of an internal combustion engine is responsible for converting reciprocating motion into rotary motion?",
       options: [

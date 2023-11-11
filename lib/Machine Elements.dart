@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> machineElements = [
 
   QuestionModel(
       question: "1. Which of the following machine elements is used to transmit power between two non-parallel and non-intersecting shafts?",

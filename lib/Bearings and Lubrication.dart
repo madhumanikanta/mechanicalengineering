@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> bearings = [
 
   QuestionModel(
       question: "1. What is the primary function of a bearing in a machine?",

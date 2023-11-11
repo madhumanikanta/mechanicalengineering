@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> mechanics= [
 
   QuestionModel(question: "1. Which of the following quantities is a vector?",
       options: [

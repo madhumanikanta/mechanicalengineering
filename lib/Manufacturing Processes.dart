@@ -13,7 +13,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> manufacturingprocess = [
 
   QuestionModel(question: "1. Which manufacturing process involves the removal of material from a workpiece using cutting tools?",
       options: [

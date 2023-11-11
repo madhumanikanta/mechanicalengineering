@@ -16,7 +16,7 @@ class QuestionModel{
 }
 
 
-List<QuestionModel> questions = [
+List<QuestionModel> thermodynamics = [
 
   QuestionModel(question: "1. Which of the following laws states that energy cannot be created or destroyed, only transferred or converted from one form to another?",
       options: [
